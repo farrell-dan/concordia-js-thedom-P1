@@ -40,7 +40,6 @@ hlink.target = "_blank";
 hlink.href = "https://www.tvfanatic.com/shows/how-i-met-your-mother/episodes/season-4/the-best-burger-in-new-york/#:~:text=Recap,he%20refuses%20to%20eat%20it.";
 main.appendChild(hlink);
 
-//look at how to add a hyperlink in javascript
 
 
 const head = document.querySelector("head");
